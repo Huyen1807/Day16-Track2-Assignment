@@ -254,16 +254,16 @@ kaggle datasets download -d mlg-ulb/creditcardfraud --unzip -p ~/ml-benchmark/
 
 | Metric | Kết quả |
 |---|---|
-| Thời gian load data | |
-| Thời gian training | |
-| Best iteration | |
-| AUC-ROC | |
-| Accuracy | |
-| F1-Score | |
-| Precision | |
-| Recall | |
-| Inference latency (1 row) | |
-| Inference throughput (1000 rows) | |
+| Thời gian load data | 1.833 s |
+| Thời gian training | 11.641 s |
+| Best iteration | 0 |
+| AUC-ROC | 0.8931 |
+| Accuracy | 0.9989 |
+| F1-Score | 0.6970 |
+| Precision | 0.6900 |
+| Recall | 0.7041 |
+| Inference latency (1 row) | 0.001545 s |
+| Inference throughput (1000 rows) | 52,046.78 rows/s |
 
 ### 7.7: Kiểm tra Chi phí sau 1 giờ
 
